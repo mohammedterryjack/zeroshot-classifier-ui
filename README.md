@@ -1,15 +1,11 @@
 # Example User Interface (Streamlit) for a Zeroshot Classifier (GPT3)
 
-## Requirements
+## Play Online
 
-```
-streamlit
-prompt-optimisation
-```
-
+`https://mohammedterryjack-zeroshot-classifier-ui-app-clutsa.streamlit.app/`
 ---
 
-## Run
+## Run Locally
 ```
 streamlit run app.py
 ```
