@@ -3,6 +3,7 @@
 ## Play Online
 
 `https://mohammedterryjack-zeroshot-classifier-ui-app-clutsa.streamlit.app/`
+
 ---
 
 ## Run Locally
